@@ -1,7 +1,7 @@
 Odoo Docker ARM
 ===============
 
-Docker images to run Odoo on ARM, which are hosted on [Docker Hub](https://hub.docker.com/repository/docker/thhoangtran/odoo). These images are referenced from [Odoo Docker](https://github.com/odoo/docker), which are altered to work for ARM builds.
+Docker images to run Odoo on ARM, which are hosted on [Docker Hub](https://hub.docker.com/r/thhoangtran/odoo/tags). These images are referenced from [Odoo Docker](https://github.com/odoo/docker), which are altered to work for ARM builds.
 
 # Supported tags
 - `16`, `latest`
